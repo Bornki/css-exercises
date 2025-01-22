@@ -1,0 +1,20 @@
+.basic {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.basic.better {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#two {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
